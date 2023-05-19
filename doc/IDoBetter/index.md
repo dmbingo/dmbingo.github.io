@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Я сделаю лучше"              
+title: "Проблема делегирования"              
 author: "Александр"                      
 permalink: /IDoBetter/                                                                                                               
 ---                                                                                                                                                           
