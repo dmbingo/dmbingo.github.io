@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Нет местного рынка"
+title: "Нет местного рынка"
 author: "Александр"
 permalink: /NoLocalMarket/
 ---
