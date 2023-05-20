@@ -24,3 +24,5 @@
 **[Правила](/rules/)**
 
 **Финал**
+
+{% include analytic.html %}
