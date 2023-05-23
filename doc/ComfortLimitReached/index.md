@@ -4,9 +4,9 @@ title: "1. Предел комфорта"
 author: "Александр"
 permalink: /ComfortLimitReached/
 ---
+{% include footnote.md %}
 ![Предел комфорта](/_img/1.jpg)
 
-{% include footnote.md %}
 # "Граница комфорта" 
 ### Ощущения
 
