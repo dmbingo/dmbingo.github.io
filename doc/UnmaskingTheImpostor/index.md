@@ -10,6 +10,7 @@ permalink: /UnmaskingTheImpostor/
 
 ### Ощущения
 {% include motive.html %} Страх разоблачения, которое невозможно опровергнуть после ухода.
+
 {% include today.html %}
 
 ###  Описание состояния клиентами<sup>*</sup> 
