@@ -2,7 +2,9 @@
 layout: post
 title: "3 Проблема делегирования"              
 author: "Александр"                      
-permalink: /IDoBetter/                                  ---                                                                                                             !["Я сделаю это лучше"](/_img/3.jpg)
+permalink: /IDoBetter/
+---
+!["Я сделаю это лучше"](/_img/3.jpg)
 # "Я сделаю лучше"
 
 ### Ощущения
