@@ -5,6 +5,7 @@ author: "Александр"
 permalink: /ComfortLimitReached/
 ---
 ![Предел комфорта](/_img/1.jpg)
+{% include footnote.md %}
 # "Граница комфорта" 
 ### Ощущения
 
