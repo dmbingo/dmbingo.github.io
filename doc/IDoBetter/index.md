@@ -4,6 +4,7 @@ title: "3. Проблема делегирования"
 author: "Александр"
 permalink: /IDoBetter/
 ---
+{% include footnote.md %}
 !["Я сделаю это лучше"](/_img/3.jpg)
 # "Я сделаю лучше"
 
