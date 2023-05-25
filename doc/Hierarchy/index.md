@@ -4,7 +4,7 @@ title: "4. Иерархия"
 author: "Александр"
 permalink: /Hierarchy/
 ---
-{% include footnote.html %}
+{% include footnote.md %}
 !["Я слишком низко в иерархии"](/_img/4.jpg)
 # "Я слишком низко в иерархии"
 
