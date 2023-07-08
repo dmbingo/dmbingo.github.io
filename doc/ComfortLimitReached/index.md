@@ -6,6 +6,7 @@ permalink: /ComfortLimitReached/
 ---
 {% include footnote.md %}
 ![Предел комфорта](/_img/1.jpg)
+![Предел комфорта](/_img/1.svg)
 
 # "Граница комфорта" 
 ### Ощущения
