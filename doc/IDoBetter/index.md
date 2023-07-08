@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /IDoBetter/
 ---
 {% include footnote.md %}
-!["Я сделаю это лучше"](/_img/3.jpg)
+!["Я сделаю это лучше"](/_img/3.svg)
 # "Я сделаю лучше"
 
 ### Ощущения

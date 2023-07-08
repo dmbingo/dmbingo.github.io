@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /SupportMyBrand/
 ---
 {% include footnote.md %}
-!["Поддержу свой бренд"](/_img/15.jpg)
+!["Поддержу свой бренд"](/_img/15.svg)
 # "Поддержу свой бренд"
 
 ### Ощущения

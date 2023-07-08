@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /EnemiesAllAround/
 ---
 {% include footnote.md %}
-!["Все против меня"](/_img/21.jpg)
+!["Все против меня"](/_img/21.svg)
 # "Кругом враги"
 
 ### Ощущения

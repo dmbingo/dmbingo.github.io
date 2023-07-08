@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /UnmaskingTheImpostor/
 ---
 {% include footnote.md %}
-!["Разоблачение самозванца"](/_img/2.jpg)
+!["Разоблачение самозванца"](/_img/2.svg)
 # "Беглый самозванец"
 
 ### Ощущения

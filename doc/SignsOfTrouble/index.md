@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /SignsOfTrouble/
 ---
 {% include footnote.md %}
-!["Думал что тучи сгущаются "](/_img/37.jpg)
+!["Думал что тучи сгущаются "](/_img/37.svg)
 # "Зима близко"
 
 ### Ощущения

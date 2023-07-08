@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /BehindInTheRace/
 ---
 {% include footnote.md %}
-!["Всё ушли далеко вперед"](/_img/27.jpg)
+!["Всё ушли далеко вперед"](/_img/27.svg)
 # "Безнадежно отстал"
 
 ### Ощущения

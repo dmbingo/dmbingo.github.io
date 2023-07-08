@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /AnotherLanguage/
 ---
 {% include footnote.md %}
-!["Я-Они говорим на разных языках"](/_img/26.jpg)
+!["Я-Они говорим на разных языках"](/_img/26.svg)
 # "Иноязык"
 
 ### Ощущения

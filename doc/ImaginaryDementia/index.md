@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /ImaginaryDementia/
 ---
 {% include footnote.md %}
-!["Воображаемая деменция"](/_img/25.jpg)
+!["Воображаемая деменция"](/_img/25.svg)
 # "Что-то не так с головой"
 
 ### Ощущения
