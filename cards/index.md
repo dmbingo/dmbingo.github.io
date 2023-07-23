@@ -24,6 +24,9 @@ description: "Описание игровых карт и демотивирую
 
 Подробнее о раздаче в ["**Правилах игры**"](/rules/). 
 
+| ---- | ---- |
+| <a href="/ComfortLimitReached/">!["Граница комфорта"](_img/1_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](_img/2_m.svg)</a> |
+
 ## Описание карт
 ### 1 ["Граница комфорта"](/ComfortLimitReached/)
 --
