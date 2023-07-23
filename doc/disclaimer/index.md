@@ -2,7 +2,7 @@
 layout: post
 title: "Отвественность за свою жизнь"
 author: "Александр"
-permalink: /disclamer/
+permalink: /discliamer/
 description: "Играя вы принимаете на себя отвественность за свою жизнь и её изменение к лучшему
 ---
 {% include footnote.md %}
