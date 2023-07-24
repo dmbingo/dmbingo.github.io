@@ -35,10 +35,10 @@ description: "Описание игровых карт и демотивирую
 | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/22_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/23_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/24_m.svg)</a> |
 | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/25_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/26_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/27_m.svg)</a> | 
 | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/28_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/29_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/30_m.svg)</a> |
-| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/31_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/32_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/33_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/34_m.svg)</a> |
-| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/35_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/36_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/37_m.svg)</a> | 
-| <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/38_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/39_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/40_m.svg)</a> |
-| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/41_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/42_m.svg)</a> |
+| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/31_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/32_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/33_m.svg)</a> | 
+| <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/34_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/35_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/36_m.svg)</a> | 
+| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/37_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/38_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/39_m.svg)</a> | 
+| <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/40_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/41_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/42_m.svg)</a> |
 
 # Описание карт
 ### 1 ["Граница комфорта"](/ComfortLimitReached/)
