@@ -2,10 +2,10 @@
 layout: post
 title: "Текстовое описание карт"
 author: "Александр"
-permalink: /txtcards/
+permalink: /wowcards/
 description: "Текстовое описание игровых карт со ссылкой на полую расшифровку демотивирующих состояний" 
 ---
-
+{% include footnote.md %}
 # Колода
 
 ### 42 демотиватора
