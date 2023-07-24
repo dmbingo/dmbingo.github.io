@@ -2,7 +2,7 @@
 layout: post
 title: "Текстовое описание карт"
 author: "Александр"
-permalink: /_cards/
+permalink: /txtcards/
 description: "Текстовое описание игровых карт со ссылкой на полую расшифровку демотивирующих состояний" 
 ---
 {% include footnote.md %}
