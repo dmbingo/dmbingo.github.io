@@ -25,7 +25,7 @@ description: "Описание игровых карт и демотивирую
 Подробнее о раздаче в ["**Правилах игры**"](/rules/). 
 
 | ------------ | ------------ |
-#| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/1_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/2_m.svg)</a> |
+| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/1_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/2_m.svg)</a> |
 | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/3_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/4_m.svg)</a> |
 | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/5_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/6_m.svg)</a> |
 | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/7_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/8_m.svg)</a> |
