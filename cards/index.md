@@ -25,7 +25,7 @@ description: "Описание игровых карт и демотивирую
 Подробнее о раздаче в ["**Правилах игры**"](/rules/). 
 
 | ------------ | ------------ | ------------ |
- <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/1_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/2_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/3_m.svg)</a> | 
+| <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/1_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/2_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/3_m.svg)</a> | 
 | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/4_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/5_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/6_m.svg)</a> |
 | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/7_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/8_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/9_m.svg)</a> | 
 | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/10_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/11_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/12_m.svg)</a> |
@@ -41,8 +41,11 @@ description: "Описание игровых карт и демотивирую
 | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/40_m.svg)</a> | <a href="/ComfortLimitReached/">!["Граница комфорта"](../_img/41_m.svg)</a> | <a href="/UnmaskingTheImpostor/">!["Беглый самозванец"](../_img/42_m.svg)</a> |
 
 # Текстовое описание карт
+
 | ---- | ---- |
 | 1 | 2 |
+
+
 | **1** ["Граница комфорта"](/ComfortLimitReached/) Переход в новое дело связан с потерей достигнутого комфорта. Чем-то напоминает затянувшийся микс падения в лифте, воздушных ям и первых мгновений осмотра стоматологом. | **2** ["Беглый самозванец"](/UnmaskingTheImpostor/) Страх разоблачения, которое невозможно опровергнуть. |
 
 ### 3 ["Я сделаю лучше"](/IDoBetter/)
