@@ -1,7 +1,7 @@
 User-agent: *
 Crawl-delay: 10 
 Disallow: /assets/*
-Disallow: BingSiteAuth.xml
+Disallow: /BingSiteAuth.xml
 Allow: /cards/*
 Disallow: *.yml
 Disallow: /_data/*
@@ -13,5 +13,5 @@ Disallow: /_layouts/*
 Allow: /rules/*
 Sitemap: https://asomatic.ru/sitemap.xml
 Disallow: /txt/*
-Disallow: y*.html
-Disallow: g*.html
+Disallow: /y*.html
+Disallow: /g*.html
