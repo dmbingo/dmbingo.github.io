@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /OthersHaveItBetter/
 ---
 {%  include footnote.md %}
-<a href="cards"/>!["У других всё получается лучше"](/_img/28.svg)</a>
+<a href="/cards/">!["У других всё получается лучше"](/_img/28.svg)</a>
 # "Уродство сравнения"
 
 ### Ощущения

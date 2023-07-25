@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /CumulativeFatigue/
 ---
 {% include footnote.md %}
-<a href="cards"/>!["Усталость на основной работе"](/_img/34.svg)</a>
+<a href="/cards/">!["Усталость на основной работе"](/_img/34.svg)</a>
 # "Параллельная усталость"
 
 ### Ощущения

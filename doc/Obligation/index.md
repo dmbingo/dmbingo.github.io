@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /Obligation/
 ---
 {% include footnote.md %}
-<a href="cards"/>!["Долг выше дела"](/_img/5.svg)</a>
+<a href="/cards/">!["Долг выше дела"](/_img/5.svg)</a>
 # "У меня есть обязательства"
 
 ### Ощущения

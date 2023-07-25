@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /Agoraphobia/
 ---
 {% include footnote.md %}
-<a href="cards"/>!["Боязнь рыночной толпы"](/_img/8.svg)</a>
+<a href="/cards/">!["Боязнь рыночной толпы"](/_img/8.svg)</a>
 # "Страх открытого мира"
 
 ### Ощущения
