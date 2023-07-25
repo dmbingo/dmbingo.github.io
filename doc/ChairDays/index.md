@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /ChairDays/
 ---
 {% include footnote.md %} 
-!["Стар я для этого дерьма"](/_img/16.svg)
+<a href="cards"/>!["Стар я для этого дерьма"](/_img/16.svg)</a>
 # "Стар я для этого дерьма"
 
 ### Ощущения

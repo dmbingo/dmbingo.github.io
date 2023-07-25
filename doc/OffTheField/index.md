@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /OffTheField/
 ---
 {% include footnote.md %}
-!["Все вне времени и пространства"](/_img/38.svg)
+<a href="cards"/>!["Все вне времени и пространства"](/_img/38.svg)</a>
 # "Гринвич далеко"
 
 ### Ощущения

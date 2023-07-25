@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /AmateurTips/
 ---
 {% include footnote.md %}
-!["Наслушался прохожих"](/_img/22.svg)
+<a href="cards"/>!["Наслушался прохожих"](/_img/22.svg)</a>
 # "Отсоветовали дилетанты"
 
 ### Ощущения

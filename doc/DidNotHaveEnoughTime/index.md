@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /DidNotHaveEnoughTime/
 ---
 {% include footnote.md %}
-!["Совершенно не было времени для оценки"](/_img/33.svg)
+<a href="cards"/>!["Совершенно не было времени для оценки"](/_img/33.svg)</a>
 # "Цейтнот экспертизы"
 
 ### Ощущения

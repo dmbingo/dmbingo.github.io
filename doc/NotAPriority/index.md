@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /NotAPriority/
 ---
 {% include footnote.md %}
-!["Проект не в приоритетных"](/_img/18.svg)
+<a href="cards"/>!["Проект не в приоритетных"](/_img/18.svg)</a>
 # "Деньги нужны для другого"
 
 ### Ощущения

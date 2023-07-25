@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /NoApplause/
 ---
 {% include footnote.md %}
-!["Нет восхищения"](/_img/11.svg)
+<a href="cards"/>!["Нет восхищения"](/_img/11.svg)</a>
 # "Нет восхищения"
 
 ### Ощущения

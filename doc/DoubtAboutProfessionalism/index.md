@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /DoubtAboutProfessionalism/
 ---
 {% include footnote.md %}
-!["Сомнение в себе"](/_img/12.svg)
+<a href="cards"/>!["Сомнение в себе"](/_img/12.svg)</a>
 # "Утерянный профессионализм"
 
 ### Ощущения

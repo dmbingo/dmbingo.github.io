@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /Hype/
 ---
 {% include footnote.md %}
-!["Жертва обмана"](/_img/13.svg)
+<a href="cards"/>!["Жертва обмана"](/_img/13.svg)</a>
 # "Меня обманули"
 
 ### Ощущения

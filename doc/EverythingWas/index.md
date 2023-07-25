@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /EverythingWas/
 ---
 {% include footnote.md %}
-!["Чудятся грабли"](/_img/35.svg)
+<a href="cards"/>!["Чудятся грабли"](/_img/35.svg)</a>
 # "Дежавю эксперта"
 
 ### Ощущения
