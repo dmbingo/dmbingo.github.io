@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Игровое поле"
-author: "Александр"
+author:
+  name: Alexander Ivlev
+  url: https://scr.ru/
 permalink: /cards/
 description: "Описание игровых карт и демотивирующих состояний переживаемых в процессе отказа от продолжения собственного проекта в пользу работы по найму" 
 ---
