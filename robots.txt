@@ -10,6 +10,7 @@ Allow: /final/*
 Disallow: /_img/*
 Disallow: /_includes/*
 Disallow: /_layouts/*
+Disallow: /_plugins/*
 Allow: /rules/*
 Sitemap: https://asomatic.ru/sitemap.xml
 Disallow: /txt/*
