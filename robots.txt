@@ -1,5 +1,6 @@
 User-agent: *
 Crawl-delay: 10 
+Sitemap: https://asomatic.ru/sitemap.xml
 Allow: /Agoraphobia/*
 Allow: /AmateurTips/*
 Allow: /AnotherLanguage/*
