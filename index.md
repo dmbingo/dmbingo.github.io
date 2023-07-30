@@ -1,19 +1,19 @@
 ## "От чего у вас не получится ничего изменить в своей жизни»
 
-<h1>Latest Posts</h1>
+{% include footnote.md %}
+
+### Предварительная оговорка
+
+<h2>Заметки к релизу</h2>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
-
-### Предварительная оговорка
-
-{% include footnote.md %}
 
 {% include AdvClause.html %}
 ## "**_Булл-шит бинго_**" не гадательные карточки и не психологический тест
