@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: post
 author: Alexander
 ---
 
-Не надо путать "моив" и "цель".
+Не надо путать "мотив" и "цель".
