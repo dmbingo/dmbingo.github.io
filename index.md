@@ -1,21 +1,7 @@
 ## "От чего у вас не получится ничего изменить в своей жизни»
 
-{% include footnote.md %}
-
 ### Предварительная оговорка
 
-<h2>Заметки к релизу</h2>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-{% include AdvClause.html %}
 ## "**_Булл-шит бинго_**" не гадательные карточки и не психологический тест
 
 ### Предупреждение и отказ от ответственности
@@ -33,8 +19,19 @@
 
 **Об [инициации](/initiation/)**
 
-### Инвентарь
+### Колода, правила и прочее
 
 {% include footnote.md %}
+
+<h2>Заметки к релизу</h2>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 
