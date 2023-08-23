@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Игровое поле"
-author: "Alexander Ivlev"
+author: "Alexander"
 permalink: /cards/
 description: "Описание игровых карт и демотивирующих состояний переживаемых в процессе отказа от продолжения собственного проекта в пользу работы по найму" 
 ---
