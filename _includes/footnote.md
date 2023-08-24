@@ -1,3 +1,3 @@
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
- **[начало](/)** | **[карты](/cards/)** | **[загрузить](/assets/BSB_cards.pdf)** | **[правила](/rules/)** | **[финал](/final/)** | **[автор](https://ivlev.github.io)** | **[LinkedIn](https://bit.ly/lnkdn-ivlev)** |
+ **[начало](/)** | **[карты](/_cards/)** | **[загрузить](/assets/BSB_cards.pdf)** | **[правила](/rules/)** | **[финал](/final/)** | **[автор](https://ivlev.github.io)** | **[LinkedIn](https://bit.ly/lnkdn-ivlev)** |
 
