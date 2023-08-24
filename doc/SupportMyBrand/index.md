@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /SupportMyBrand/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Поддержу свой бренд"](/_img/15.svg)</a>
+<a href="/_cards/">!["Поддержу свой бренд"](/_img/15.svg)</a>
 # "Поддержу свой бренд"
 
 ### Ощущения

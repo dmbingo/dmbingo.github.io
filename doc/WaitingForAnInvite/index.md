@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /WaitingForAnInvite/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Жду оффера"](/_img/17.svg)</a>
+<a href="/_cards/">!["Жду оффера"](/_img/17.svg)</a>
 # "Ожидание на чемодане"
 
 ### Ощущения

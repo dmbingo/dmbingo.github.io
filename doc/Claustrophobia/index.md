@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /Claustrophobia/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Боязнь замкнутого пространства"](/_img/9.svg)</a>
+<a href="/_cards/">!["Боязнь замкнутого пространства"](/_img/9.svg)</a>
 # "Западня"
 
 ### Ощущения

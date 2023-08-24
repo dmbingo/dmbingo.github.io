@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /Intermit/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["прервусь на минутку"](/_img/14.svg)</a>
+<a href="/_cards/">!["прервусь на минутку"](/_img/14.svg)</a>
 # "Прервусь на минутку"
 
 ### Ощущения

@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /NeedAServant/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Без прислуги нет проекта"](/_img/20.svg)</a>
+<a href="/_cards/">!["Без прислуги нет проекта"](/_img/20.svg)</a>
 # "Кто-то должен меня обслуживать"
 
 ### Ощущения

@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /WithoutReturn/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Траектория без возврата"](/_img/6.svg)</a>
+<a href="/_cards/">!["Траектория без возврата"](/_img/6.svg)</a>
 # "Траектория без возврата"
 
 ### Ощущения

@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /CompetenceDeficit/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Слишком много надо знать и уметь"](/_img/30.svg)</a>
+<a href="/_cards/">!["Слишком много надо знать и уметь"](/_img/30.svg)</a>
 # "Дефицит компетенции"
 
 ### Ощущения

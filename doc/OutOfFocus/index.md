@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /OutOfFocus/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Не видишь куда шагать"](/_img/31.svg)</a>
+<a href="/_cards/">!["Не видишь куда шагать"](/_img/31.svg)</a>
 # "Опоры в тумане"
 
 ### Ощущения

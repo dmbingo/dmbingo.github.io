@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /WreathsOnPillars/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Дорожные венки"](/_img/7.svg)</a>
+<a href="/_cards/">!["Дорожные венки"](/_img/7.svg)</a>
 # "Дорожные венки"
 
 ### Ощущения

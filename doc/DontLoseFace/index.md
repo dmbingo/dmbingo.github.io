@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /DontLoseFace/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Неудобно перед коллегами"](/_img/32.svg)</a>
+<a href="/_cards/">!["Неудобно перед коллегами"](/_img/32.svg)</a>
 # "Хочу сохранить лицо"
 
 ### Ощущения

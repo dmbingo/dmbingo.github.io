@@ -5,7 +5,7 @@ author: "Александр"
 permalink: /UninvitedExpert/
 ---
 {% include footnote.md %}
-<a href="/cards/">!["Слушал пророчества на публику"](/_img/36.svg)</a>
+<a href="/_cards/">!["Слушал пророчества на публику"](/_img/36.svg)</a>
 # "Оракул из лампы"
 
 ### Ощущения
